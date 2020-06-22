@@ -7,3 +7,5 @@
 This is MCBBS-MEME-Resourcepack, welcome Minecraft players and MCBBS users to improve files. 
 
 **Note**:WE ARE ONLY SOME MCBBS MEMBERS, **NOT MCBBS's ADMINISTRATORS**.
+
+如果你需要下载资源包，请转到以游戏版本号命名的分支然后下载。
